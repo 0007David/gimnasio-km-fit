@@ -84,13 +84,17 @@
                 "input": "public"
               }
             ],
-            "styles": [
+            "styles": [              
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "2397aef4-4e14-4ab2-9251-e98cde1577f4"
   }
 }
